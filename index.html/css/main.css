@@ -1,0 +1,208 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin: 30px auto;
+    margin-top: 100px;
+}
+
+.titulo-principal {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.logo-skyrim {
+    position: relative;
+    left: 300px;
+    border: 4px solid black;
+    border-radius: 50%;
+
+}
+
+.figcaption2 {
+    text-align: center;
+    background-color: darkgrey;
+
+}
+
+.sub-titulo {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.paragrafo1 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.paragrafo1-2 {
+    text-align: center;
+    background-color: darkgrey;
+
+}
+
+.Anúncio {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.trailer-do-game {
+    position: relative;
+    left: 290px;
+}
+
+.paragrafo1-3 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.Mundo-Aberto {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.mundo-aberto2 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.mapa {
+    position: relative;
+    left: 300px;
+    border: 5px solid black;
+}
+
+.historia {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.historia-2 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.Jogabilidade {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.jogabilidades {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.classes {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.classes2 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.mago2 {
+    position: relative;
+    left: 10px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.LADRÃO2 {
+    position: relative;
+    left: 70px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.guerreiro2 {
+    position: relative;
+    left: 40px;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.saiba-mais {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.Dragões {
+
+    text-align: center;
+    background-color: darkgrey;
+}
+
+
+
+
+.Dragões2 {
+    text-align: center;
+    background-color: darkgrey;
+
+}
+
+.dragaokkk {
+    position: relative;
+    left: 290px;
+    border: 5px solid black;
+    border-radius: 30%;
+}
+
+.mod {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.modes {
+    text-align: center;
+    background-color: darkgrey;
+
+}
+
+.video-de-mods {
+    position: relative;
+    left: 280px;
+}
+
+.sucesso {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.Sucesso2 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.sucesso3 {
+    position: relative;
+    left: 200px;
+    border: 1px solid black;
+}
+
+.Relançamentos {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.Relançamentos2 {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.Relançamentos3 {
+    position: relative;
+    left: 290px;
+}
+
+.OBG {
+    text-align: center;
+    background-color: darkgrey;
+}
